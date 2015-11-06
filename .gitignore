@@ -1,0 +1,8 @@
+readme.txt
+*.a
+build/
+*.pda
+#hello
+*.rpg
+#this is a commont
+#hello haha
